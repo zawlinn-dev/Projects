@@ -4,7 +4,6 @@
     box-sizing: border-box;
   }
 
-
   /* Main Section */
 
   .main {
@@ -101,11 +100,16 @@
     margin-top: 5px;
   }
 
+  .checked{
+
+    background: #ddd;
+  }
+
   .checked h3{
     text-decoration: line-through;
   }
 
-  li:hover {
+  .listItem:hover {
     background: #eee;
   }
   

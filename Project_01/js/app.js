@@ -1,12 +1,3 @@
-window.setTimeout( ()=>{
-
-        let m = document.querySelector('.main');
-        let x = document.querySelector('.preloader');
-
-        x.style.display = 'none';
-        m.style.display = 'block';d
-
-}, 5000);
 
 // TO DO LIST
 
